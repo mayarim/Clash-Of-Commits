@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "Retro Computer";
+    font-style: normal;
+    font-weight: 400;
+    src: url("/fonts/retro_computer.ttf");
+}
+
+#buttonCol{
+    -fx-alignment: center;
+    -fx-spacing: 20;
+    -fx-padding: 20 20 20 20;
+    -fx-font-family: "Retro Computer";
+}
+.button{
+    -fx-pref-width: 200px;
+}

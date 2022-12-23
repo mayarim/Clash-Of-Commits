@@ -1,0 +1,7 @@
+Title=Example Side Scroller
+Author=Nicki Lee
+Mode=solo (solo, two-player, or timed)
+Description=A super cool side scroller game that will blow Professor Duvall's socks off
+Level=easy (easy, medium, or hard)
+BoxSize=20
+Map=data/levels/exampleSideScroller.csv

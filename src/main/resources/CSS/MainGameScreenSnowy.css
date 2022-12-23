@@ -1,0 +1,17 @@
+@font-face {
+    font-family: "Retro Computer";
+    font-style: normal;
+    font-weight: 400;
+    src: url("/fonts/retro_computer.ttf");
+}
+.tool-bar{
+    -fx-background-color: #DBFFFF;
+    -fx-fill:#DBFFFF;
+}
+
+.button{
+    -fx-font-family: "Retro Computer";
+}
+.label{
+    -fx-font-family: "Retro Computer";
+}

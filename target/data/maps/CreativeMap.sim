@@ -1,0 +1,13 @@
+Title=Creative Map
+Author=Nick Ward
+Description=Destroy Bushes To Create Patterns of Your Choice
+BoxSize=30
+Cell0=/blocks/grass.jpeg
+Cell1=/blocks/tree.jpeg
+Cell2=/blocks/bush.jpeg
+
+Obstacle0=Feature
+Obstacle1=ImmovableWall
+Obstacle2=DestroyableWall
+
+Map=data/maps/CreativeMap.csv

@@ -1,0 +1,11 @@
+# This is where the bug enemy behavior is defined
+Type=Enemy
+Sprites=/sprites/bug/
+Speed=50
+Size=30
+HP=3
+Attack=ShortRange
+AttackRange=120
+CoolDown=1.0
+Direction=WEST
+Movement=MOVING
